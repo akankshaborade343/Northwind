@@ -2,6 +2,10 @@
 SQL Project: Northwind Database Analysis
 This project showcases my hands-on SQL skills using the Northwind sample database, a widely used dataset for practicing real-world business queries. The project focuses on extracting meaningful insights related to sales, customers, employees, products, suppliers, and revenue analysis.
 
+
+
+
+
 🔍 Project Overview
 
 The SQL queries in this project answer real business questions such as:
@@ -19,6 +23,9 @@ Calculating total revenue for specific orders
 Discovering loyal and high-frequency customers
 
 
+
+
+
 🛠️ Skills & Concepts Used
 
 SELECT, WHERE, ORDER BY, GROUP BY, HAVING
@@ -30,6 +37,9 @@ Aggregate functions: COUNT, SUM, AVG
 Filtering with LIKE and conditional logic
 
 Real-world business problem solving using SQL
+
+
+
 
 
 📈 Key Insights Generated
@@ -54,6 +64,10 @@ Write optimized and readable SQL queries
 
 Translate business requirements into data-driven solutions
 
+
+
 📂 Database Used: Northwind
+
+
 
 📌 Language: SQL
