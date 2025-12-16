@@ -1,6 +1,7 @@
 # Northwind
 SQL Project: Northwind Database Analysis
 This project showcases my hands-on SQL skills using the Northwind sample database, a widely used dataset for practicing real-world business queries. The project focuses on extracting meaningful insights related to sales, customers, employees, products, suppliers, and revenue analysis.
+<b>
 🔍 Project Overview
 The SQL queries in this project answer real business questions such as:
 Identifying top-selling and most profitable products
