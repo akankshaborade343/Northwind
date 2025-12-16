@@ -8,19 +8,19 @@ This project showcases my hands-on SQL skills using the Northwind sample databas
 
 🔍 Project Overview
 
-The SQL queries in this project answer real business questions such as:
+1.The SQL queries in this project answer real business questions such as:
 
-Identifying top-selling and most profitable products
+2.Identifying top-selling and most profitable products
 
-Analyzing customer distribution by country
+3.Analyzing customer distribution by country
 
-Evaluating employee performance based on orders and revenue
+4.Evaluating employee performance based on orders and revenue
 
-Finding frequently used shipping companies
+5.Finding frequently used shipping companies
 
-Calculating total revenue for specific orders
+6.Calculating total revenue for specific orders
 
-Discovering loyal and high-frequency customers
+7.Discovering loyal and high-frequency customers
 
 
 
@@ -28,15 +28,15 @@ Discovering loyal and high-frequency customers
 
 🛠️ Skills & Concepts Used
 
-SELECT, WHERE, ORDER BY, GROUP BY, HAVING
+- SELECT, WHERE, ORDER BY, GROUP BY, HAVING
 
-INNER JOIN across multiple tables
+- INNER JOIN across multiple tables
 
-Aggregate functions: COUNT, SUM, AVG
+- Aggregate functions: COUNT, SUM, AVG
 
-Filtering with LIKE and conditional logic
+- Filtering with LIKE and conditional logic
 
-Real-world business problem solving using SQL
+- Real-world business problem solving using SQL
 
 
 
@@ -44,25 +44,25 @@ Real-world business problem solving using SQL
 
 📈 Key Insights Generated
 
-Top 5 most expensive and most sold products
+- Top 5 most expensive and most sold products
 
-Revenue contribution by employees and categories
+- Revenue contribution by employees and categories
 
-Supplier contribution analysis
+- Supplier contribution analysis
 
-Customer segmentation for marketing and loyalty programs
+- Customer segmentation for marketing and loyalty programs
 
 
 
 💡 Why This Project?
 
-This project demonstrates my ability to:
+- This project demonstrates my ability to:
 
-Work with relational databases
+- Work with relational databases
 
-Write optimized and readable SQL queries
+- Write optimized and readable SQL queries
 
-Translate business requirements into data-driven solutions
+- Translate business requirements into data-driven solutions
 
 
 
